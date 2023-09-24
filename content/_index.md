@@ -6,8 +6,10 @@ description: ""
 
 {{< figure src="/images/Mikey-1.jpg" attr="Photo Credit: Lisa Festa" class="left" >}}
 
-I am a [Resident Fellow](https://law.yale.edu/michael-mcgovern) at [Yale Law School](https://law.yale.edu/)'s [Information Society Project](https://law.yale.edu/isp). I study how science is used to construct _and_ contest theories of human difference, particularly in social statistics and civil rights litigation.
+I am a [Resident Fellow](https://law.yale.edu/michael-mcgovern) at [Yale Law School](https://law.yale.edu/)'s [Information Society Project](https://law.yale.edu/isp). I study how science is used to construct _and_ contest ideas about human difference, and how such ideas become embedded in technology, law, and social policy.
 
-My [research](/research/) spans the history of medical genetics, laboratory studies of cognition, and the use of statistical evidence and concepts to challenge racial discrimination in the late twentieth century United States. I am broadly interested in the development and adoption of computing technologies, as well as the moral and epistemological hazards of efforts to render the organization and production of knowledge more efficient, even objective. Here is my [latest CV](/pdf/McGovern_20230901_CV.pdf).
+Put broadly, I am interested in the history of _data_: the ways concepts, materials, and politics shape what counts in the social and natural world. My [current project](/research/) follows civil rights advocates' efforts to measure and prove racial discrimination in U.S. courts since the 1960s. By providing a historical account of the opportunities and hazards of quantitative frameworks for racial justice, I seek to inform discussions about discrimination in our era of big data and machine learning.
 
-After stints in Chicago (as a [software developer](https://www.mcmaster.com/)) and the UK, I now live in ☀️ Sunnyside, Queens  where I [sing](https://stlukeinthefields.org/music-arts/choirs/#choir) in [choirs](https://www.trinitywallstreet.org/music-arts/ensembles/downtown-voices) 🎵 and volunteer for [Team AOC](https://www.ocasiocortez.com/volunteer)‍ 🙋🏻‍♂️.
+I recieved my PhD in History of Science from Princeton 🐯. I live in New Haven 🍕, [sing](http://www.christchurchnh.org/music#the-christ-church-choir) early music 🎵, and once [modeled](https://archive.varsity.co.uk/780.pdf) bowties ⧓.
+
+Here is my [latest CV](/pdf/McGovern_20230901_CV.pdf). You can reach me at michael \[dot] mcgovern \[at] yale \[dot] edu. 
